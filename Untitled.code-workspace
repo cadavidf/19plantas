@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../deployment-project/sentimentapi"
+		},
+		{
+			"path": "../Cadavid.CO"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
